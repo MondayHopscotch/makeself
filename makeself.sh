@@ -73,7 +73,7 @@
 # Please read the license at http://www.gnu.org/copyleft/gpl.html
 #
 
-MS_VERSION=2.2.0
+MS_VERSION="2.2.0 LR-Custom"
 MS_COMMAND="$0"
 unset CDPATH
 
